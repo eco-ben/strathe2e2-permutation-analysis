@@ -47,3 +47,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Don't track outputs folder or RProj folder for users
+*.RProj
+outputs/
